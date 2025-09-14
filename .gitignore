@@ -1,0 +1,4 @@
+# 项目排除路径
+/aliyun-oss-spring-boot-autoconfigure/target/
+/springboot-autoconfiguration-test/target/
+/tlias-web-management/target/
